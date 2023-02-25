@@ -1,0 +1,30 @@
+Bir şirket internet kullanımı ile ilgili bir araştırma yapıyor.
+Anketi yayınlayan 30000 kişinin %45'i erkekdir. % 55'i kadındır.
+Anketi yanıtlayan % 70'i 15-17 yaş aralığıdır. Kadınların %72'si ingilizce bilmektedir.
+Erkekler günde ortalama 3 saat kadınlar ise 4 saat internet kullanıyor.
+Erkeklerin %72'si,kadınların da %75'i üniversite mezunudur.
+
+1.Soru: Çalışmada hangi değerler ölçülmeye çalışılmıştır?
+  cevap: *Cinsiyet
+         *Yaş
+         *İngilizce Bilgisi
+         *İnternette geçirilen zaman
+         *Mezun durumu
+         
+  
+  
+2.Soru:Değişkenlerin türleri nedir?
+  cevap: *Cinsiyet-Kategorik
+         *Yaş-Sayısal
+         *İngilizce Bilgisi-Kategorik
+         *İnternette geçirilen zaman-Sayısal
+         *Mezun durumu-Kategorik
+         
+         
+ 3-Belirlediğiniz değişkenlerin hangi ölçekle ölçüldüğünü belirtiniz.
+ cevap:  *Cinsiyet-Nominal
+         *Yaş-Oran
+         *İngilizce Bilgisi-Nominal
+         *İnternette geçirilen zaman-Oran
+         *Mezun durumu-Kategorik
+ 
